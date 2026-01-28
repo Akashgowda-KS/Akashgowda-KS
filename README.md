@@ -2,14 +2,15 @@
 
 ## C++ / Embedded Software Developer
 
-Developer @ **Sapiens** | Life & Pension Systems
-Ex- **Capgemini Engineering** | Embedded, IoT & Systems Programming
+Developer @ **Sapiens** | Life & Pension | CS - Delivery CoE
+
+Ex- **Capgemini Engineering** | Embedded C, IoT & Systems Programming
 
 ---
 
 ## 👋 About Me
 
-I am a **C++ Developer** currently working at **Sapiens** in the Life & Pension domain, contributing to the development and maintenance of enterprise-scale insurance products. My work emphasizes **performance optimization, reliability, and clean system design** in large C++ codebases, following structured SDLC and engineering best practices.
+I am a **C++ Developer** currently working at **Sapiens** in the Life & Pension CS - Delivery CoE, contributing to the development and maintenance of enterprise-scale insurance products. My work emphasizes **performance optimization, reliability, and clean system design** in large C++ codebases, following structured SDLC and engineering best practices.
 
 Previously, I worked in the **Embedded & IoT** domain at Capgemini Engineering, where I developed firmware and communication layers for **ARM-based ABB devices**, implemented **MQTT**, and integrated edge systems with **Microsoft Azure Cloud** for Oil & Gas applications.
 
@@ -51,7 +52,7 @@ I hold a **Bachelor of Engineering in Electronics and Communication Engineering*
 
 > *Representative project ideas aligned with my professional experience.*
 
-* **Life & Pension Core Modules (C++)**
+* **Life & Pension, CS- Delivery CoE, Core and Cust Modules (C++)**
   Performance-focused C++ components for enterprise insurance systems, emphasizing scalability, memory efficiency, and maintainability.
 
 * **MQTT Client for Embedded Devices**
@@ -71,7 +72,7 @@ I hold a **Bachelor of Engineering in Electronics and Communication Engineering*
 
 *October 2022 – Present | Bangalore, India*
 
-* Maintain and enhance core Life & Pension insurance products.
+* Maintain and enhance core and cust Life & Pension insurance products (IFGL project).
 * Optimize C++ modules for performance, stability, and scalability.
 * Collaborate with cross-functional teams across development, QA, and product.
 * Contribute to improved client satisfaction through reliable product delivery.
@@ -136,7 +137,7 @@ Bachelor of Engineering (B.E.) — Electronics and Communication Engineering
 ## 📫 Contact
 
 * 📍 Bengaluru, Karnataka, India
-* 📧 Email: [ksakashgowda@gmail.com](mailto:ksakashgowda@gmail.com)
+* 📧 Email: [Akashgowda.KS@sapiens.com](mailto:Akashgowda.KS@sapiens.com)
 * 🔗 LinkedIn: [https://www.linkedin.com/in/akashgowdaks](https://www.linkedin.com/in/akashgowdaks)
 * 🔗 Microsoft Learn: [https://learn.microsoft.com/en-us/users/akashgowdaks-5754/](https://learn.microsoft.com/en-us/users/akashgowdaks-5754/)
 
